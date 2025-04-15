@@ -16,7 +16,7 @@ intro:
     and conclude with multiple mock tests till the candidate demonstrates solid
     procedural learning of the entire syllabus.
 products:
-  - image: img/illustrations-coffee.svg
+  - image: img/1000260516.jpg
     text: We sell green and roasted coffee beans that are sourced directly from
       independent farmers and farm cooperatives. We’re proud to offer a variety
       of coffee beans grown with great care for the environment and local
