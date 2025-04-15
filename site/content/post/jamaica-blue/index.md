@@ -9,6 +9,7 @@ description: The National Defence Academy (NDA) entrance exam is one of the
   be overwhelming, but regular mock tests—short tests based on specific
   topics—play a pivotal role in helping students master both the concepts and
   the mental resilience needed to succeed.
+image: 1000260518.jpg
 ---
 Why Regular Mock Tests Matter for NDA Maths Preparation
 
