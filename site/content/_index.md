@@ -17,16 +17,26 @@ intro:
     procedural learning of the entire syllabus.
 products:
   - image: img/1000260516.jpg
-    text: We sell green and roasted coffee beans that are sourced directly from
-      independent farmers and farm cooperatives. We’re proud to offer a variety
-      of coffee beans grown with great care for the environment and local
-      communities. Check our post or contact us directly for current
-      availability.
+    text: >-
+      Ace Your NDA Maths Exam with Mock Tests
+
+
+      Preparing for the NDA entrance exam is a rigorous journey, and mastering Mathematics is key to your success. The NDA Maths exam consists of multiple-choice questions (MCQs) under tight time constraints, making efficient practice crucial.
   - image: /img/illustrations-coffee-gear.svg
-    text: We offer a small, but carefully curated selection of brewing gear and
-      tools for every taste and experience level. No matter if you roast your
-      own beans or just bought your first french press, you’ll find a gadget to
-      fall in love with in our shop.
+    text: >-
+      Why Mock Tests Matter:
+
+
+      Simulate Real Exam Conditions: Our NDA Maths Mock Tests are designed to mirror the actual exam’s format, including time limits and question types. This prepares you for the pressure and pacing you'll face on exam day.
+
+
+      Identify Weak Areas: Regular mock tests help you pinpoint specific topics or concepts that need more attention, allowing for targeted revision.
+
+
+      Track Your Progress: Our detailed performance analysis after each test gives you insights into your strengths and areas for improvement, so you can optimize your study plan.
+
+
+      Increase Confidence: Practicing with mock tests boosts your confidence and familiarity with the exam structure, reducing anxiety and improving your ability to answer questions quickly and accurately.
 values:
   heading: "Our Pedagogy "
   text: To succeed in the NDA mathematics paper it is critical to develop a
