@@ -11,7 +11,7 @@ values:
       is done regularly. It fosters a sense of responsibility, focus, and time
       management, all of which are essential to not only succeeding in the NDA
       exam but also excelling in the demanding life of a military officer.
-    imageUrl: /img/about-shade-grown.jpg
+    imageUrl: img/1000260586.jpg
   - heading: "Resilience "
     text: Resilience is an essential value for students preparing for the NDA exam.
       The journey is challenging, filled with complex topics and time pressures
@@ -21,7 +21,7 @@ values:
       fostering a resilient mindset, students are better equipped to stay calm,
       adapt to challenges, and maintain their motivation, ensuring they keep
       pushing forward even when faced with adversity.
-    imageUrl: /img/about-single-origin.jpg
+    imageUrl: img/1000260587.jpg
   - heading: Integrity
     text: Integrity is a core value in the armed forces and should be instilled
       early in any NDA coaching program. Students are not only taught how to
@@ -30,7 +30,7 @@ values:
       mock tests, or in everyday life—creates a foundation of trust and respect.
       The commitment to doing what’s right, even when no one is watching, is key
       to developing the character needed to become a future officer in the army.
-    imageUrl: /img/about-sustainable-farming.jpg
+    imageUrl: img/1000260588.jpg
   - heading: Leadership
     text: Leadership is one of the defining qualities of an NDA cadet. A strong
       coaching program goes beyond academic preparation by focusing on
@@ -40,7 +40,7 @@ values:
       inspire and motivate others. Leadership training in the NDA coaching
       program helps students not only excel in the exam but also prepare for the
       immense responsibility of commanding and guiding troops in the future.
-    imageUrl: /img/about-direct-sourcing.jpg
+    imageUrl: img/1000260590.jpg
   - heading: "Teamwork "
     text: While individual performance is important, teamwork is equally critical in
       the NDA. A coaching program that fosters teamwork helps students realize
@@ -50,5 +50,5 @@ values:
       viewpoints, and leverage collective strengths. Teamwork is a fundamental
       skill in both the NDA exam preparation and the army, where working
       together effectively can make all the difference in achieving success.
-    imageUrl: /img/about-reinvest-profits.jpg
+    imageUrl: img/1000260594.jpg
 ---
