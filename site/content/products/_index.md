@@ -61,17 +61,15 @@ testimonials:
 full_image: img/1000260548.jpg
 pricing:
   heading: Monthly subscriptions
-  description: We make it easy to make great coffee a part of your life. Choose
-    one of our monthly subscription plans to receive great coffee at your
-    doorstep each month. Contact us about more details and payment info.
+  description: We make it easy for you to prepare rigorously for the most
+    important exam of your life. Choose one of our online coaching programs.
+    Contact us about more details and payment info.
   plans:
-    - description: Perfect for the drinker who likes to enjoy 1-2 cups per day.
-      items:
-        - 3 lbs of coffee per month
-        - Green or roasted beans
-        - One or two varieties of beans
-      plan: Small
-      price: "50"
+    - description: "Perfect for candidates who finished their syllabus in our earlier
+        batch or elsewhere "
+      items: []
+      plan: "Weekly Mock Tests "
+      price: "5000"
     - description: Great for avid drinkers, java-loving couples and bigger crowds
       items:
         - 6 lbs of coffee per month
