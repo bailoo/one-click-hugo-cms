@@ -3,17 +3,18 @@ title: "Military Math Academy "
 subtitle: Officers are made, not born
 image: img/1000260508.jpg
 blurb:
-  heading: Why Kaldi?
-  text: Kaldi is the coffee store for everyone who believes that great coffee
-    shouldn't just taste good, it should do good too. We source all of our beans
-    directly from small scale sustainable farmers and make sure part of the
-    profits are reinvested in their communities.
+  heading: Why Us?
+  text: "Military Math Academy is rigorous practice based coaching program by
+    former officers for aspirants who want to join the Indian Defence forces. We
+    prepare candidates using a novel procedural learning methodology that
+    distills fundamentals and the capability to quickly solve questions under
+    time constraints. "
 intro:
-  heading: What we offer
-  text: Kaldi is the ultimate spot for coffee lovers who want to learn about their
-    java’s origin and support the farmers that grew it. We take coffee
-    production, roasting and brewing seriously and we’re glad to pass that
-    knowledge to anyone.
+  heading: What We Offer
+  text: We start with theory for each topic, provide practical understanding of
+    how to attempt multiple choice questions in a time constraint examination
+    and conclude with multiple mock tests till the candidate demonstrates solid
+    procedural learning of the entire syllabus.
 products:
   - image: img/illustrations-coffee.svg
     text: We sell green and roasted coffee beans that are sourced directly from
@@ -27,9 +28,11 @@ products:
       own beans or just bought your first french press, you’ll find a gadget to
       fall in love with in our shop.
 values:
-  heading: Our values
-  text: Coffee is an amazing part of human culture but it has a dark side too –
-    one of colonialism and mindless abuse of natural resources and human lives.
-    We want to turn this around and return the coffee trade to the drink’s
-    exhilarating, empowering and unifying nature.
+  heading: "Our Pedagogy "
+  text: To succeed in the NDA mathematics paper it is critical to develop a
+    procedural learning for attempting multiple choice questions under time
+    constraint. This requires a deep understanding of fundamental theory and the
+    ability to quickly apply it using a variety of tactics. Our approach
+    includes a rigorous focus on weekly mock tests for every topic till both the
+    fundamentals and live test taking are proceduraly learnt.
 ---
