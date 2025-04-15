@@ -1,7 +1,7 @@
 ---
 title: "Our Pedagogy "
 type: products
-image: /img/products-jumbotron.jpg
+image: img/1000260534.jpg
 intro:
   heading: "What We Offer "
   description: To succeed in the NDA mathematics paper it is critical to develop a
