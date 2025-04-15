@@ -11,7 +11,7 @@ intro:
     includes a rigorous focus on weekly mock tests for every topic till both the
     fundamentals and live test taking are proceduraly learnt.
   blurbs:
-    - image: /img/illustrations-coffee.svg
+    - image: img/1000260535.jpg
       text: >-
         How Our Unique Approach Works:
 
@@ -19,17 +19,17 @@ intro:
         1. Interactive Live Classes for Real-Time Engagement
 
         Our expert instructors guide you through each mathematical concept using interactive live sessions. These classes go beyond theory, focusing on step-by-step problem-solving methods that can be immediately applied. Whether it's tackling complex algebraic equations or geometric challenges, you'll learn how to break down problems efficiently. You’ll also have the opportunity to ask questions in real-time, ensuring that every doubt is cleared as you progress.
-    - image: /img/illustrations-tutorials.svg
+    - image: img/1000260536.jpg
       text: >
         2. Weekly Mock Tests for Continuous Assessment
 
         To truly prepare for the high-pressure environment of the NDA exam, regular practice is key. Our weekly mock tests simulate the real exam conditions, helping you refine your time management skills and test-taking strategies. These tests cover each topic systematically, ensuring that by the time you reach exam day, you're not just familiar with the material—you're confident in your ability to tackle any question under time constraints.
-    - image: /img/illustrations-coffee-gear.svg
+    - image: img/1000260537.jpg
       text: >-
         3. Combining Live Classes & Mock Tests for Maximum Retention
 
         Procedural learning thrives when theory is followed by practice, and that's exactly what our program offers. The combination of live classes and weekly mock tests creates a cycle of active learning, where each class introduces new concepts and each mock test reinforces that learning. This dynamic reinforcement ensures you don't just memorize but understand and apply the methods correctly.
-    - image: /img/illustrations-meeting-space.svg
+    - image: img/1000260538.jpg
       text: >-
         4. Tracking Progress for Success
 
