@@ -44,14 +44,14 @@ main:
 
     Preparing for the NDA entrance exam requires more than just memorizing formulas or equations. It demands a structured approach, where every concept is deeply understood and applied through practice. That’s why our program focuses on procedural learning—a proven method to help you master problem-solving techniques and ensure you're fully equipped for exam day.
   image1:
-    alt: A close-up of a paper filter filled with ground coffee
-    image: /img/products-grid3.jpg
+    alt: "Multiple choice questions "
+    image: img/1000260546.jpg
   image2:
-    alt: A green cup of a coffee on a wooden table
-    image: /img/products-grid2.jpg
+    alt: "Algebra Trigonometry "
+    image: img/1000260547.jpg
   image3:
-    alt: Coffee beans
-    image: /img/products-grid1.jpg
+    alt: "Trigonometry Calculus "
+    image: img/1000260549.jpg
 testimonials:
   - author: Elisabeth Kaurismäki
     quote: The first time I tried Kaldi’s coffee, I couldn’t even believe that was
