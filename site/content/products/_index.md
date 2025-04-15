@@ -53,13 +53,12 @@ main:
     alt: "Trigonometry Calculus "
     image: img/1000260549.jpg
 testimonials:
-  - author: Elisabeth Kaurismäki
-    quote: The first time I tried Kaldi’s coffee, I couldn’t even believe that was
-      the same thing I’ve been drinking every morning.
-  - author: Philipp Trommler
-    quote: Kaldi is the place to go if you want the best quality coffee. I love
-      their stance on empowering farmers and transparency.
-full_image: /img/products-full-width.jpg
+  - author: Joshika Arya
+    quote: "Their emphasis on weekly mock tests was critical to my success in "
+  - author: "Vivek Singh "
+    quote: "Military Math Academy is the best online coaching to actually prepare
+      for the live experience of the final exam under time pressure "
+full_image: img/1000260548.jpg
 pricing:
   heading: Monthly subscriptions
   description: We make it easy to make great coffee a part of your life. Choose
