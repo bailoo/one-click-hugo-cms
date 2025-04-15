@@ -22,7 +22,7 @@ products:
 
 
       Preparing for the NDA entrance exam is a rigorous journey, and mastering Mathematics is key to your success. The NDA Maths exam consists of multiple-choice questions (MCQs) under tight time constraints, making efficient practice crucial.
-  - image: /img/illustrations-coffee-gear.svg
+  - image: img/1000260518.jpg
     text: >-
       Why Mock Tests Matter:
 
