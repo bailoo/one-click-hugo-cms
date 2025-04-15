@@ -1,49 +1,48 @@
 ---
-title: Our Coffee
+title: "Our Pedagogy "
 type: products
 image: /img/products-jumbotron.jpg
 intro:
-  heading: What we offer
-  description: >-
-    Kaldi is the ultimate spot for coffee lovers who want to learn about their
-    java’s origin and support the farmers that grew it. We take coffee production,
-    roasting and brewing seriously and we’re glad to pass that knowledge to
-    anyone.
+  heading: "What We Offer "
+  description: To succeed in the NDA mathematics paper it is critical to develop a
+    procedural learning for attempting multiple choice questions under time
+    constraint. This requires a deep understanding of fundamental theory and the
+    ability to quickly apply it using a variety of tactics. Our approach
+    includes a rigorous focus on weekly mock tests for every topic till both the
+    fundamentals and live test taking are proceduraly learnt.
   blurbs:
     - image: /img/illustrations-coffee.svg
-      text: >
-        We sell green and roasted coffee beans that are sourced directly from
-        independent farmers and farm cooperatives. We’re proud to offer a
-        variety of coffee beans grown with great care for the environment and
-        local communities. Check our post or contact us directly for current
-        availability.
-    - image: /img/illustrations-coffee-gear.svg
-      text: >
-        We offer a small, but carefully curated selection of brewing gear and
-        tools for every taste and experience level. No matter if you roast your
-        own beans or just bought your first french press, you’ll find a gadget
-        to fall in love with in our shop.
+      text: >-
+        How Our Unique Approach Works:
+
+
+        1. Interactive Live Classes for Real-Time Engagement
+
+        Our expert instructors guide you through each mathematical concept using interactive live sessions. These classes go beyond theory, focusing on step-by-step problem-solving methods that can be immediately applied. Whether it's tackling complex algebraic equations or geometric challenges, you'll learn how to break down problems efficiently. You’ll also have the opportunity to ask questions in real-time, ensuring that every doubt is cleared as you progress.
     - image: /img/illustrations-tutorials.svg
       text: >
-        Love a great cup of coffee, but never knew how to make one? Bought a
-        fancy new Chemex but have no clue how to use it? Don't worry, we’re here
-        to help. You can schedule a custom 1-on-1 consultation with our baristas
-        to learn anything you want to know about coffee roasting and brewing.
-        Email us or call the store for details.
+        2. Weekly Mock Tests for Continuous Assessment
+
+        To truly prepare for the high-pressure environment of the NDA exam, regular practice is key. Our weekly mock tests simulate the real exam conditions, helping you refine your time management skills and test-taking strategies. These tests cover each topic systematically, ensuring that by the time you reach exam day, you're not just familiar with the material—you're confident in your ability to tackle any question under time constraints.
+    - image: /img/illustrations-coffee-gear.svg
+      text: >-
+        3. Combining Live Classes & Mock Tests for Maximum Retention
+
+        Procedural learning thrives when theory is followed by practice, and that's exactly what our program offers. The combination of live classes and weekly mock tests creates a cycle of active learning, where each class introduces new concepts and each mock test reinforces that learning. This dynamic reinforcement ensures you don't just memorize but understand and apply the methods correctly.
     - image: /img/illustrations-meeting-space.svg
-      text: >
-        We believe that good coffee has the power to bring people together.
-        That’s why we decided to turn a corner of our shop into a cozy meeting
-        space where you can hang out with fellow coffee lovers and learn about
-        coffee making techniques. All of the artwork on display there is for
-        sale. The full price you pay goes to the artist.
+      text: >-
+        4. Tracking Progress for Success
+
+        Every mock test is followed by a detailed analysis of your performance, giving you insights into areas of improvement. This allows you to tailor your future study sessions, ensuring you're always moving forward and never stuck. Plus, with each mock test, your confidence grows, and by the time the NDA exam rolls around, you'll be ready to perform at your best
 main:
-  heading: Great coffee with no compromises
-  description: >
-    We hold our coffee to the highest standards from the shrub to the cup.
-    That’s why we’re meticulous and transparent about each step of the coffee’s
-    journey. We personally visit each farm to make sure the conditions are
-    optimal for the plants, farmers and the local environment.
+  heading: Procedural Learning via Mock Tests
+  description: >-
+    Unlock Your Full Potential with Procedural Learning: The Perfect Blend of
+    Live Classes & Mock Tests
+
+
+
+    Preparing for the NDA entrance exam requires more than just memorizing formulas or equations. It demands a structured approach, where every concept is deeply understood and applied through practice. That’s why our program focuses on procedural learning—a proven method to help you master problem-solving techniques and ensure you're fully equipped for exam day.
   image1:
     alt: A close-up of a paper filter filled with ground coffee
     image: /img/products-grid3.jpg
@@ -55,20 +54,17 @@ main:
     image: /img/products-grid1.jpg
 testimonials:
   - author: Elisabeth Kaurismäki
-    quote: >-
-      The first time I tried Kaldi’s coffee, I couldn’t even believe that was
+    quote: The first time I tried Kaldi’s coffee, I couldn’t even believe that was
       the same thing I’ve been drinking every morning.
   - author: Philipp Trommler
-    quote: >-
-      Kaldi is the place to go if you want the best quality coffee. I love their
-      stance on empowering farmers and transparency.
+    quote: Kaldi is the place to go if you want the best quality coffee. I love
+      their stance on empowering farmers and transparency.
 full_image: /img/products-full-width.jpg
 pricing:
   heading: Monthly subscriptions
-  description: >-
-    We make it easy to make great coffee a part of your life. Choose one of our
-    monthly subscription plans to receive great coffee at your doorstep each
-    month. Contact us about more details and payment info.
+  description: We make it easy to make great coffee a part of your life. Choose
+    one of our monthly subscription plans to receive great coffee at your
+    doorstep each month. Contact us about more details and payment info.
   plans:
     - description: Perfect for the drinker who likes to enjoy 1-2 cups per day.
       items:
@@ -76,21 +72,19 @@ pricing:
         - Green or roasted beans
         - One or two varieties of beans
       plan: Small
-      price: '50'
+      price: "50"
     - description: Great for avid drinkers, java-loving couples and bigger crowds
       items:
         - 6 lbs of coffee per month
         - Green or roasted beans
         - Up to 4 different varieties of beans
       plan: Big
-      price: '80'
+      price: "80"
     - description: Want a few tiny batches from different varieties? Try our custom plan
       items:
         - Whatever you need
         - Green or roasted beans
         - Unlimited varieties
       plan: Custom
-      price: '?'
+      price: "?"
 ---
-
-
