@@ -1,6 +1,6 @@
 ---
-title: Great coffee with a conscience
-subtitle: Support sustainable farming while enjoying a cup
+title: "Military Math Academy "
+subtitle: Officers are made, not born
 image: img/1000260508.jpg
 blurb:
   heading: Why Kaldi?
