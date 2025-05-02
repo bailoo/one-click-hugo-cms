@@ -3,8 +3,9 @@ title: "Military Math Academy "
 subtitle: Officers are made, not born
 image: img/1000260508.jpg
 blurb:
-  heading: "Register for Online Math Intensive for NDA 2 2025 Exam "
-  text: <a href="https://forms.gle/QZgA9k5cT76D7Apu8">Register here</a>
+  heading: "Pioneer Batch NDA 2 2025 Exam "
+  text: "[Register here](https://forms.gle/QZgA9k5cT76D7Apu8) for Online Math
+    Intensive Pioner Batch NDA 2 2025 Exam "
 intro:
   heading: What We Offer
   text: >-
