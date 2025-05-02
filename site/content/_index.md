@@ -10,7 +10,7 @@ blurb:
 
 
 
-    <a href="https://www.google.com">Google</a>
+    <a href="https://forms.gle/QZgA9k5cT76D7Apu8">Register here</a>
 intro:
   heading: What We Offer
   text: >-
