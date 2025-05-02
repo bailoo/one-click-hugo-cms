@@ -4,7 +4,7 @@ subtitle: Officers are made, not born
 image: img/1000260508.jpg
 blurb:
   heading: "Register for Online Math Intensive for NDA 2 2025 Exam "
-  text: https://forms.gle/QZgA9k5cT76D7Apu8
+  text: <a href="https://forms.gle/QZgA9k5cT76D7Apu8">Register here</a>
 intro:
   heading: What We Offer
   text: >-
