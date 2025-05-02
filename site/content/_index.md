@@ -2,26 +2,21 @@
 title: "Military Math Academy "
 subtitle: Officers are made, not born
 image: img/1000260508.jpg
+register: <a href="https://forms.gle/QZgA9k5cT76D7Apu8">Register here</a> for
+  Online Math Intensive Pioner Batch NDA 2 2025 Exam
 blurb:
-  heading: "Pioneer Batch NDA 2 2025 Exam "
-  text: >-
-    [Register here](https://forms.gle/QZgA9k5cT76D7Apu8) for Online Math
-    Intensive Pioner Batch NDA 2 2025 Exam 
-
-
-
-    <a href="https://forms.gle/QZgA9k5cT76D7Apu8">Register here</a>
-intro:
-  heading: What We Offer
-  text: >-
-    Military Math Academy is rigorous practice based coaching program by former
-    officers for aspirants who want to join the Indian Defence forces. We
+  heading: Why Us?
+  text: "Military Math Academy is rigorous practice based coaching program by
+    former officers for aspirants who want to join the Indian Defence forces. We
     prepare candidates using a novel procedural learning methodology that
     distills fundamentals and the capability to quickly solve questions under
-    time constraints. 
-
-
-    We start with theory for each topic, provide practical understanding of how to attempt multiple choice questions in a time constraint examination and conclude with multiple mock tests till the candidate demonstrates solid procedural learning of the entire syllabus.
+    time constraints. "
+intro:
+  heading: What We Offer
+  text: We start with theory for each topic, provide practical understanding of
+    how to attempt multiple choice questions in a time constraint examination
+    and conclude with multiple mock tests till the candidate demonstrates solid
+    procedural learning of the entire syllabus.
 products:
   - image: img/1000260516.jpg
     text: >-
