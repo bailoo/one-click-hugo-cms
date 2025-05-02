@@ -7,6 +7,10 @@ contact_entries:
   - heading: Working hours
     text: "Monday – Friday: 9 am – 7 pm. We’re closed on weekends and holidays "
 ---
+<a href="https://forms.gle/QZgA9k5cT76D7Apu8">Register here</a> for Online Math Intensive Pioner Batch NDA 2 2025 Exam
+
+
+
 We’d love to get in touch with you and hear your ideas and questions. We strive to grow and improve constantly and your feedback is valuable for us.
 
 <h3 class="f4 b lh-title mb2">How can I get…?</h3>
