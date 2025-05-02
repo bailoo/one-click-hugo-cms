@@ -2,8 +2,12 @@
 title: "Military Math Academy "
 subtitle: Officers are made, not born
 image: img/1000260508.jpg
-register: <a href="https://forms.gle/QZgA9k5cT76D7Apu8">Register here</a> for
-  Online Math Intensive Pioner Batch NDA 2 2025 Exam
+register: >-
+  <a href="https://forms.gle/QZgA9k5cT76D7Apu8">Register here</a> for Online
+  Math Intensive Pioner Batch NDA 2 2025 Exam
+
+
+  Test
 blurb:
   heading: Why Us?
   text: "Military Math Academy is rigorous practice based coaching program by
