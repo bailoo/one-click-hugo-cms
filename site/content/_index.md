@@ -4,8 +4,12 @@ subtitle: Officers are made, not born
 image: img/1000260508.jpg
 blurb:
   heading: "Pioneer Batch NDA 2 2025 Exam "
-  text: "[Register here](https://forms.gle/QZgA9k5cT76D7Apu8) for Online Math
-    Intensive Pioner Batch NDA 2 2025 Exam "
+  text: >-
+    [Register here](https://forms.gle/QZgA9k5cT76D7Apu8) for Online Math
+    Intensive Pioner Batch NDA 2 2025 Exam 
+
+
+    <a href="https://www.google.com">Google</a>
 intro:
   heading: What We Offer
   text: >-
