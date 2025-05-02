@@ -11,10 +11,6 @@ blurb:
 
 
     <a href="https://www.google.com">Google</a>
-
-
-
-    [Visit Example](https://example.com){target="_blank"}
 intro:
   heading: What We Offer
   text: >-
