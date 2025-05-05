@@ -7,4 +7,4 @@ contact_entries:
   - heading: Location
     text: 108, G Block, East of Kailash, New Delhi 110065
 ---
-<a href="https://forms.gle/QZgA9k5cT76D7Apu8">Register here</a> for Online Math Intensive Pioner Batch NDA 2 2025 Exam
+<a href="https://forms.gle/QZgA9k5cT76D7Apu8">**Register here**</a> for Online Math Intensive Pioner Batch NDA 2 2025 Exam
